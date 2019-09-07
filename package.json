@@ -1,18 +1,21 @@
 {
-  "name": "starter-code-lab26",
+  "name": "lab-27",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.6.3",
-    "react-dom": "16.6.3",
-    "react-jsonschema-form": "1.0.6",
-    "react-redux": "5.1.1",
-    "react-router-dom": "4.3.1",
-    "react-scripts": "2.1.1",
-    "redux": "4.0.1",
-    "superagent": "latest"
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "jest": "^24.9.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-jsonschema-form": "^1.8.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.1",
+    "react-test-renderer": "^16.9.0",
+    "redux": "^4.0.4",
+    "superagent": "^5.1.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -20,5 +23,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonagray/lab-27.git"
+  },
+  "author": "Jonny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonagray/lab-27/issues"
+  },
+  "homepage": "https://github.com/jonagray/lab-27#readme",
+  "description": ""
 }
