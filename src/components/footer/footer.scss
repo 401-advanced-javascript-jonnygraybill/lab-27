@@ -1,0 +1,13 @@
+@import '../lib/variables.scss';
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $accentColor;
+  color: white;
+  text-align: center;
+  font-family: bold;
+  opacity: 0.7;
+};
